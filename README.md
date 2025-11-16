@@ -24,7 +24,8 @@ make run
 
 ### База данных
 
-![[Pasted image 20251116214711.png]]
+<img width="1098" height="990" alt="Снимок экрана 2025-11-16 214705" src="https://github.com/user-attachments/assets/71767eb0-ca84-4b89-a2b3-cb1600e8a5c5" />
+
 
 Дополнительная таблица `pr_reviewers` нужна для того, чтобы отслеживать, кто ревьюит конкретный pull request.
 
